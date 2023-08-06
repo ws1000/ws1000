@@ -7,15 +7,6 @@
   - [osTicket: Post-Installation Configuration](https://github.com/ws1000/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/ws1000/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
+  - [Configuring Active Directory within Azure VMs](https://github.com/ws1000/configure-ad)
+  
 
-<h2>🤳Connect with me:</h2>
-
-[<img align="left" alt="Whitney | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Whitney | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Whitney | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/Jane
-[instagram]: https://www.instagram.com/Jane
-[linkedin]: https://linkedin.com/in/Jane
